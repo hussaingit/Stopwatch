@@ -1,0 +1,26 @@
+.head{
+    text-align: center;
+    display: inline-block;
+    color: white;
+    width: 60px;
+    background-color: black;
+    margin-top: 150px;
+    flex-wrap: wrap;
+    
+}
+body{
+    background-color: black;
+}
+.bu{
+    text-align: center;
+    display: inline;
+    color: white;
+    width: 50px;
+    background-color: black;
+    flex-wrap: wrap;
+    
+}
+div{
+    text-align: center;
+    flex-wrap: wrap;
+}
